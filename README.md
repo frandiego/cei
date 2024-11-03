@@ -1,5 +1,5 @@
 
-# Python and Data Science
+# Python for Data Science
 
 This project aims to store teaching material with which to learn python from scratch, its application to the world of data science and machine learning.
 
