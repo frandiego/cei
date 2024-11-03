@@ -8,4 +8,5 @@ dependencies = [
     "jupyter>=1.1.1",
     "nbmerge>=0.0.4",
     "notebook>=7.2.2",
+    "pandas>=2.2.3",
 ]
